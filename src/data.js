@@ -1,0 +1,123 @@
+export const initialValue = [
+  {
+    id: 1,
+    type: "Sci-fi",
+    rating: "9.5/10",
+    name: "The Lord Of The Rings",
+  },
+  {
+    id: 2,
+    type: "Sci-fi",
+    rating: "7.5/10",
+    name: "Ender's Game",
+  },
+  {
+    id: 3,
+    type: "Sci-fi",
+    rating: "5.5/10",
+    name: "The Hitchhiker's Guide To The Galaxy",
+  },
+  {
+    id: 4,
+    type: "pop music",
+    rating: "9.5/10",
+    name: "The Dune Chronicles",
+  },
+  {
+    id: 5,
+    type: "Sci-fi",
+    rating: "8.5/10",
+    name: "The Martian",
+  },
+
+  {
+    id: 6,
+    type: "Science",
+    rating: "8.5/10",
+    name: "Project Hail Mary",
+  },
+  {
+    id: 7,
+    type: "Science",
+    rating: "6.5/10",
+    name: "Always On",
+  },
+  {
+    id: 8,
+    type: "Science",
+    rating: "8.5/10",
+    name: "Handmade: A Scientist’s Search for Meaning through Making",
+  },
+  {
+    id: 9,
+    type: "Science",
+    rating: "9.5/10",
+    name: "Swearing Is Good For You",
+  },
+  {
+    id: 10,
+    type: "Science",
+    rating: "8.5/10",
+    name: "Mysteries Of The Quantum Universe",
+  },
+  {
+    id: 11,
+    type: "Astrophysics",
+    rating: "8.5/10",
+    name: "Welcome To The Astrophysics",
+  },
+  {
+    id: 12,
+    type: "Astrophysics",
+    rating: "9.5/10",
+    name: "Einstein's Unfinished Revolution",
+  },
+  {
+    id: 13,
+    type: "Astrophysics",
+    rating: "7.5/10",
+    name: "Finding Our Place in the Universe",
+  },
+  {
+    id: 14,
+    type: "Astrophysics",
+    rating: "9.5/10",
+    name: "Out There",
+  },
+  {
+    id: 15,
+    type: "Astrophysics",
+    rating: "8.5/10",
+    name: "Catching Stardust",
+  },
+  {
+    id: 16,
+    type: "Astronomy",
+    rating: "10/10",
+    name: "A Brief History of Time",
+  },
+  {
+    id: 17,
+    type: "Astronomy",
+    rating: "8.5/10",
+    name: "The Planet Factory",
+  },
+  {
+    id: 18,
+    type: "Astronomy",
+    rating: "7.5/10",
+    name: "The Zoomable Universe",
+  },
+  {
+    id: 19,
+    type: "Astronomy",
+    rating: "9.5/10",
+    name: "Planet Hunters",
+  },
+  {
+    id: 20,
+    type: "Astronomy",
+    rating: "6.5/10",
+    name: "Space is the Place",
+  },
+];
